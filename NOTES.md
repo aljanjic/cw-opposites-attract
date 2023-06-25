@@ -8,7 +8,7 @@
 ## Plans
 
 - ✅ '1 and 2 should return true'
-- ⚠ '4 and 10 should return false'
+- ✅ '4 and 10 should return false'
 - ⚠ '8 and 7 should return true'
 
 
