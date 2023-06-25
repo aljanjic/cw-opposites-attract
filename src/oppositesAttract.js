@@ -1,6 +1,5 @@
 function oppositesAttract(fl1, fl2) {
-  if(fl1 === 4 && fl2 === 10) return false;
-  return true;
+  return (fl1 + fl2) % 2 !== 0 ? true : false;
 }
 
 module.exports = oppositesAttract;
