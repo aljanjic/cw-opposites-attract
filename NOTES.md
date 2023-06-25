@@ -9,7 +9,9 @@
 
 - ✅ '1 and 2 should return true'
 - ✅ '4 and 10 should return false'
-- ⚠ '8 and 7 should return true'
+- ✅ '8 and 7 should return true'
+- 🚧 '10 and 10 should return false'
+
 
 
 
