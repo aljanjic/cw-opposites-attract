@@ -1,7 +1,7 @@
 const oppositesAttract = require('./oppositesAttract');
 
 describe('oppositesAttract', () => {
-  it('should return hello', () => {
-    expect(oppositesAttract()).toBe('hello');
+  it('1 and 2 should retunr true', () => {
+    expect(oppositesAttract(1,2)).toBe(true);
   });
 });
